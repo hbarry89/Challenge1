@@ -7,15 +7,15 @@
 
 ## Usage
 
-Navigate to the live link of this repository: ![HERE](https://hbarry89.github.io/Code-Refactor/)
+[Click here](https://hbarry89.github.io/Code-Refactor/) to navigate to the live link of this repository.
 
 You will notice, while webpage remains the same, some edits were made to improve accessibility shown in examples below:
 
--Description will show instead of image, if the image is not loaded.
-![Image1](Demo-Files/laptop-image.png)
-![Image2](Demo-Files/laptop-image-description.png)
+- Description will show instead of image, if the image is not loaded.
+![Image1](Demo-Files/laptop-image.png =250x250)
+![Image2](Demo-Files/laptop-image-description.png =250x250)
 
--Image descriptions will be read to user if the user is using a screen reader.
+- Image descriptions will be read to user if the user is using a screen reader.
 ![Video](Demo-Files/screen-reader-demo.webm)
 
 ## Credit
