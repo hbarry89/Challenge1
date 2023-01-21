@@ -17,7 +17,7 @@ You will notice, while webpage remains the same, some edits were made to improve
 
 - Image descriptions will be read to user if the user is using a screen reader.
 <video width="250" height="250" controls>
-  <source src="Demo-Files/screen-reader-demo.webm" type="video/mp4">
+  <source src="screen-reader-demo.webm" type="video/mp4">
 Oops! Video is not working. Follow this link for the video: https://drive.google.com/file/d/1v8nUMlH2F4aRoG7bVGSmTkvPesiRivku/view
 </video>
 
