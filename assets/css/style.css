@@ -187,14 +187,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Changed selector to footer tag instead of class footer to reflect code line 74 in HTML */
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* Changed selector to footer tag instead of class footer to reflect code line 74 in HTML */
 footer h2 {
     font-size: 20px;
 }
