@@ -12,11 +12,14 @@
 You will notice, while webpage remains the same, some edits were made to improve accessibility shown in examples below:
 
 - Description will show instead of image, if the image is not loaded.
-![Image1](Demo-Files/laptop-image.png =250x250)
-![Image2](Demo-Files/laptop-image-description.png =250x250)
+<img src="Demo-Files/laptop-image.png" width="250" height="250">
+<img src="Demo-Files/laptop-image-description.png" width="250" height="250">
 
 - Image descriptions will be read to user if the user is using a screen reader.
-![Video](Demo-Files/screen-reader-demo.webm)
+<video width="250" height="250" controls>
+  <source src="Demo-Files/screen-reader-demo.webm" type="video/mp4">
+Oops! Video is not working. Follow this link for the video: https://drive.google.com/file/d/1v8nUMlH2F4aRoG7bVGSmTkvPesiRivku/view
+</video>
 
 ## Credit
 ### Resources
