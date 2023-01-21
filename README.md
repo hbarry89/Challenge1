@@ -16,7 +16,8 @@ You will notice, while webpage remains the same, some edits were made to improve
 <img src="Demo-Files/laptop-image-description.png" width="250" height="250">
 
 - Image descriptions will be read to user if the user is using a screen reader.
-[Click here](https://drive.google.com/file/d/1v8nUMlH2F4aRoG7bVGSmTkvPesiRivku/view) for video demo.
+
+[Click here](https://drive.google.com/file/d/1v8nUMlH2F4aRoG7bVGSmTkvPesiRivku/view) for video demo. (Make sure sound is on)
 
 ## Credit
 ### Resources
