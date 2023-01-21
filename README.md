@@ -7,7 +7,7 @@
 
 ## Usage
 
-Navigate to the live link of this repository: ![HERE](Demo-Files/laptop-image.png)
+Navigate to the live link of this repository: ![HERE](https://hbarry89.github.io/Code-Refactor/)
 
 You will notice, while webpage remains the same, some edits were made to improve accessibility shown in examples below:
 
@@ -29,4 +29,4 @@ You will notice, while webpage remains the same, some edits were made to improve
 - VS Code
 - Screencasify
 
-### Thank you for visiting!
+## Thank you for visiting!
