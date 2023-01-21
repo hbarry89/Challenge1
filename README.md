@@ -12,6 +12,7 @@
 You will notice, while webpage remains the same, some edits were made to improve accessibility shown in examples below:
 
 - Description will show instead of image, if the image is not loaded.
+
 <img src="Demo-Files/laptop-image.png" width="250" height="250">   <img src="Demo-Files/laptop-image-description.png" width="250" height="250">
 
 - Image descriptions will be read to user if the user is using a screen reader.
